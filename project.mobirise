@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Mc Awards",
-    "currentPage": "index.html",
+    "currentPage": "McAwards2017.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 32,
     "versionPublish": "4.5.2",
@@ -10,10 +10,10 @@
     "noImageResize": ""
   },
   "pages": {
-    "index.html": {
+    "McAwards2017.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "McAwards2017",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -722,44 +722,6 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-r"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#252525"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
           "title": "BEST COMEDIAN OF THE YEAR 2017",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://www.easypolls.net/poll.html?p=5a2d6265e4b055c80d624a74\" data-toolbar=\"-mbrBtnMove\">VOTE</a>",
@@ -768,44 +730,6 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-n"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#252525"
-            },
-            ".mbr-article": {
-              "color": "#252525"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "ONE OF THE EASIEST WEBSITE BUILDERS TODAY.",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-s"
         },
         {
           "_inherit": "msg-box1",
