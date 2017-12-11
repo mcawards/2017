@@ -3,7 +3,7 @@
     "name": "Mc Awards",
     "currentPage": "McAwards2017.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 32,
+    "uniqCompNum": 34,
     "versionPublish": "4.5.2",
     "theme": {},
     "favicon": "@PROJECT_PATH@/assets/images/movies-club-1-128x128.png",
@@ -920,6 +920,52 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "SUBSCRIBE TO OUR MC AWARDS",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\">SUBSCRIBE</a>",
+          "form": {
+            "action": "darvesh815@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Enter Your Email Address..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-w"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "MC AWARDS POWERED BY MOVIESCLUB",
+          "meta": "#WSPL #GREEN KERALA #YELLOW STYLE #ATA GROUPS #TRENDY TAMILIAN",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-x"
         }
       ]
     }
